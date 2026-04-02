@@ -5,8 +5,11 @@ paired with an Arduino. Detects and tracks objects using an ultrasonic
 sensor and displays them on a VGA radar display with object IDs.
 
 ## Demo
-![PulsePatrol Hardware](add-photo-here)
-![PulsePatrol VGA Display](add-screenshot-here)
+<img width="435" height="580" alt="image" src="https://github.com/user-attachments/assets/3792feec-f041-4e77-a9aa-514354676bab" />
+
+https://drive.google.com/file/d/1yw48-4ZQUSW3I8U3Nc3RSThmJk4h5mVx/view?usp=sharing
+
+
 
 ## System Architecture
 ```
